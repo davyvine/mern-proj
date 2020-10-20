@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://vine123:vine123@devconnector.3geuu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "288eb8f4d157500cee2f",
+    "githubSecret": "596679cd691ec9ce377b3a4dcdf6cab5fa1d76cf"
+}
